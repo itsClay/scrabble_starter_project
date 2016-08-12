@@ -1,0 +1,20 @@
+{
+  "name": "scrabble-scoring",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/**_test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^2.1.2",
+    "lodash": "^4.0.0",
+    "mocha": "^2.2.1",
+    "prefix-dictionary": "0.0.2",
+    "sinon": "^1.14.1",
+    "sinon-chai": "^2.7.0",
+    "trie-hard": "^0.1.0"
+  }
+}
